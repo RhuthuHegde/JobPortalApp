@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Job Portal1</string>
+    <string name="sign_in">Sign In</string>
+    <string name="job_portal">Job Portal</string>
+    <string-array name="qualifications">
+        <item>B.E/BTech</item>
+        <item>MTech/MS</item>
+        <item>Bsc/Msc</item>
+        <item>BCom/MCom/CA</item>
+        <item>M.B.A</item>
+        <item>B.Arch</item>
+        <item>High-School</item>
+        <item>B.A/M.A</item>
+        <item>Ph.D/M.Phil</item>
+
+
+    </string-array>
+    <string-array name="companytype">
+        <item>Software</item>
+        <item>Electronics</item>
+        <item>Heavy Machinary/Electrical</item>
+        <item>Healthcare/Pharmaceutical</item>
+        <item>Education</item>
+        <item>Bio-Tech</item>
+        <item>Construction</item>
+    </string-array>
+
+
+</resources>
